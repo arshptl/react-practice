@@ -1,2 +1,2 @@
 # React Practice Projects
-This are the practice Projects which I worked parallely with learning react udemy course
+These are the practice Projects which I worked while learning reactjs udemy course
